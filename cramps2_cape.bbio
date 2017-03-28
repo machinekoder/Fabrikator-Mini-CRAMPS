@@ -1,4 +1,4 @@
-# File: Hand edited to mach ARM.BeagleBone.CRAMPS/setup.sh
+# File: Hand edited to match ARM.BeagleBone.CRAMPS/setup.sh
 # title: CRAMPS Cape 3D Printer
 overlay cape-universal
 overlay cape-bone-iio
